@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MMAlam23
+- 👋 Hi, I’m Mehfooz Alam
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Node js
 
